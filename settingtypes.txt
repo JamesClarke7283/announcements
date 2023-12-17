@@ -1,0 +1,5 @@
+# Interval for announcements (in seconds)
+announce_interval (Announce Interval) int 300
+
+# List of announcement messages (comma-separated)
+announce_messages (Announcement Messages) string 
