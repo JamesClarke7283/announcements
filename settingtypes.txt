@@ -1,5 +1,2 @@
-# Interval for announcements (in seconds)
 announce_interval (Announce Interval) int 300
-
-# List of announcement messages (comma-separated)
-announce_messages (Announcement Messages) string 
+announce_messages (Announcement Messages) string Message1,Message2,Message3

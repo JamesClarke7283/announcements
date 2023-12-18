@@ -12,3 +12,7 @@ You can change the interval of messages (in seconds) with this setting
 ```txt
 announce_interval = 600
 ```
+
+# Toggle Announcements
+
+You can toggle announcements with the `/announcements_toggle` command.
